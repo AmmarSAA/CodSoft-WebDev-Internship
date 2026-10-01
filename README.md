@@ -5,4 +5,5 @@ Internship @CodSoft
 https://e-commerce-landing-page-kappa.vercel.app 
 
 ## Standard Calculator
-https://standardcalculator.vercel.app
+https://ammarsaa.github.io/CodSoft-WebDev-Internship/
+
